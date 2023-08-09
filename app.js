@@ -1,0 +1,1 @@
+ReactDom(document.querySelector("#app"),{},"bonjour");
